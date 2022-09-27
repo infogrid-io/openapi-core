@@ -42,7 +42,7 @@ isodate = "*"
 more-itertools = "*"
 parse = "*"
 openapi-schema-validator = "^0.2.0"
-openapi-spec-validator = "^0.4.0"
+openapi-spec-validator = "~0.4.0"
 requests = {version = "*", optional = true}
 werkzeug = "*"
 
